@@ -1,0 +1,22 @@
+{
+  "name": "projeto-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabianojp06/projeto-node-js.git"
+  },
+  "author": "fabiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabianojp06/projeto-node-js/issues"
+  },
+  "homepage": "https://github.com/fabianojp06/projeto-node-js#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
