@@ -1,10 +1,10 @@
 module.exports = app => {
     app.get('/atendimentos', (req, res) => 
-    res.send('Você está na rota de atendimentos! GET'))
+    res.send('You are on the service route! GET'))
 
     app.post('/atendimentos', (req, res) => {
-        console.log('Atendimento enviado')
+        console.log('Service sent')
           console.log(req.body)
-        res.send('Post atendimento!')
+        res.send('Post service!')
     })
 }
