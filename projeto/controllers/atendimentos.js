@@ -4,7 +4,7 @@ module.exports = app => {
 
     app.post('/atendimentos', (req, res) => {
         console.log('Atendimento enviado')
-        console.log(req.body)
+          console.log(req.body)
         res.send('Post atendimento!')
     })
 }
