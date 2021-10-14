@@ -1,6 +1,6 @@
 # Agenda Pet-Shop
 
-Um parágrafo da descrição do projeto vai aqui
+API REST utilizando Node Js, Express e MySQL. Construído controllers, models que realizarão a conexão com a base de dados, validações prévias, observamos status http e formamos status que façam sentido para nosso cliente.
 
 ## 🚀 Começando
 
