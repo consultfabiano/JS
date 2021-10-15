@@ -1,0 +1,15 @@
+{
+    "configurations": [{
+        "name": "Debug Nodemon",
+        "processId": "${command:PickProcess}",
+        "request": "attach",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "pwa-node",
+        "protocol": "inspector",
+        "restart": true
+    }
+
+    ]
+}
